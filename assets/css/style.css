@@ -1,0 +1,33 @@
+.post-date {
+    background: #f4f4f4;
+    padding: 4px;
+    margin: 3px 0;
+    display: block;
+}
+
+.pagination-links {
+    padding: 8px 13px;
+    margin: 5px;
+    background-color: #f4f4f4;
+    border: 1px #ccc solid;
+}
+
+.post-image {
+    max-width: 50%;
+}
+
+.post-thumb {
+    max-width: 50%;
+}
+
+.navbar-static-top {
+    margin-bottom: 0;
+}
+
+.sidebar {
+    background-color:#c8e3f4;
+}
+
+#page-wrapper {
+    background-color:#f8f8f8;
+}
